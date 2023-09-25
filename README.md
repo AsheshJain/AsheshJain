@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsheshJain
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Test Automation Frameworks
 - 📫 How to reach me, 
 you can contact me on my email: asheshtadaiya@gmail.com
 
